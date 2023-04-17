@@ -1,6 +1,6 @@
 # SMS Service
 
-This is a RESTful API service for serving SMS for other services in a microservice architecture.
+This is a web service for serving SMS for other services in a microservice architecture.
 
 ## Technologies Used
 
